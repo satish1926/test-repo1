@@ -1,1 +1,3 @@
 Hi iam learning GIT Hub
+
+tried to push the code to git hub
